@@ -9,8 +9,11 @@
 * データセット
   * [JGLUE](https://github.com/yahoojapan/JGLUE)
 
+* モデル
+  * [MTEB: Massive Text Embedding Benchmark](https://huggingface.co/blog/mteb)
+
 * デモ
-  * [JSTSデータセットで日本語文ペア推論評価](./JSTSデータセットで日本語文ペア推論評価.ipynb)
+  * [JSTSデータセットで日本語文ペア推論評価](JSTSデータセットで日本語文ペア推論評価.ipynb)
 
 ### ■ セマンティック検索デモ
 日本語文ペア推論評価でスコアの高かった`multilingual_e5_large`を使用してセマンティック検索を行う
@@ -28,3 +31,22 @@
   * [LangChain](https://www.langchain.com/)
   * [LlamaIndex (GPT Index) ](https://github.com/jerryjliu/llama_index)
 
+
+
+## 類似画像検索
+
+### ■ 類似画像検索デモ
+* データセット
+  * [Tiny ImageNet](https://paperswithcode.com/dataset/tiny-imagenet)
+
+* モデル
+  * [ResNet-50](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html)
+
+* デモ
+  * [類似画像検索_ResNet_50](類似画像検索_ResNet_50.ipynb)
+
+### ■ 関連
+* VectorDB
+  * [Pinecone](https://www.pinecone.io/)
+  * [Qdrant](https://qdrant.tech/)
+  * [ChromaDB](https://www.trychroma.com/)
