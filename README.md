@@ -59,7 +59,7 @@
 
 ## レコメンデーション
 
-### ■ Movie Recommender Qdrantデモ
+### ■ 映画推薦システムデモ
 * 元のPineconeドキュメントとGoogle Colab Notebook
   * [Pinecone - Movie Recommender](https://docs.pinecone.io/docs/movie-recommender)
   * [Colab](https://colab.research.google.com/github/pinecone-io/examples/blob/master/recommendation/movie-recommender/00_movie_recommender.ipynb)
